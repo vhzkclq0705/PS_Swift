@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+func 문자열묶기() {
+    
+}
