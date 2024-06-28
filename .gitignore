@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=xcode,macos,swift
 
 /PS_Swift
+.xcodeproj
 
 ### macOS ###
 # General
