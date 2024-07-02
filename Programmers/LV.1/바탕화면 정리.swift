@@ -8,7 +8,7 @@
 import Foundation
 
 func 바탕화면정리() {
-    func solution(_ wallpaper:[String]) -> [Int] {
+    func solution(_ wallpaper:[String]) -> [Int] { 
         let wallpaper = wallpaper.map { $0.map { String($0) } }
         let (n, m) = (wallpaper.count, wallpaper.first!.count)
         var (minX, minY, maxX, maxY) = (n, m, 0, 0)
